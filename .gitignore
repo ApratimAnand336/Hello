@@ -1,0 +1,6 @@
+# here whatever file name you write will be ignored by git and wont be asked upon for adding in the repository
+db.sql
+passwords.txt
+*.log
+node_modules/
+!important.log
